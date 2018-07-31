@@ -4,7 +4,6 @@ const schema = require('./schema');
 const mongoose = require('mongoose');
 const cors = require('cors');
 
-
 const app = express();
 
 //allows cross origin request
